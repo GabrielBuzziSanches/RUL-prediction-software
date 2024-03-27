@@ -1,0 +1,2 @@
+### This folder should contain the .pkl files of each cell within its partition as downloaded from the datasource available at the root README.
+### Esta pasta deve conter os arquivos .pkl de cada célula que foram baixados da fonte de dados disponibilizada no README geral do repositório.
